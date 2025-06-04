@@ -24,7 +24,15 @@ ul{
     display: flex;
     list-style: none;
 }
-
+.navbar-desktop{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10%;
+    margin-top: 50px;
+}
+.navbar-mobile{
+    display: none;
+}
 
 a{
     text-decoration: none;
@@ -33,7 +41,7 @@ a{
 }
 
 a:hover{
-    color: #2f11d6;
+    color: #8b5001;
 }
 
 main{
