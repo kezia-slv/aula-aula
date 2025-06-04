@@ -57,3 +57,17 @@ main{
     width: 1.5rem;
     margin-right: 10px;
 }
+.botao-flutuante{
+    position: fixed;
+    bottom: 75px;
+    right: 30px;
+    background-color: #26da03;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px #0000008e;
+}
