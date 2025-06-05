@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var(--fonte-principal);
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.5;
+    cursor: url("cursor/normal.svg"), auto;
+}
+
+
+main{
+    max-width: 1200px;
+    margin: 140px 20%;
+}
+main{
+    display: block;
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+.section-title{
+    text-align: center;
+    padding: 2rem 0;
+}

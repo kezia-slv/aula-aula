@@ -1,0 +1,9 @@
+:root{
+    --cor-texto-primario: white;
+    --cor-texto-secundario: black;
+    --cor-fundo-primaria: green;
+    --cor-fundo-secundaria: gray;
+    --fonte-principal: 'Arial' , 'sans-serif';
+    --espacamento: 1rem;
+    --tamanho-fonte: 16px;
+}
