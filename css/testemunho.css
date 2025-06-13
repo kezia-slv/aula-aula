@@ -3,18 +3,24 @@
 }
 .testemunhos__container {
     border-radius: 10px;
-    background-color: rgb(255, 244, 186);
+    
     border: rgb(0, 0, 0);
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-evenly;
     gap: 2rem;
 }
 .testemunho-card {
     flex-basis: 400px;
     padding: 1.5rem;
-    border-left: 5px solid #b36500;
+    border-left: 2px solid #e0bc85;
+    border-right: 2px solid #e0bc85;
+    border-bottom: 2px solid #e0bc85;
+    border-top: 2px solid #e0bc85;
     margin-bottom: 1rem;
+    border-radius: 15px;
+    box-shadow: 9px 11px 9px 3px #b36500;
+    animation: pulse 4s infinite;
 }
 .testemunho-card blockquote {
     font-style: italic;

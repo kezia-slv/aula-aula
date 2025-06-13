@@ -6,7 +6,7 @@
     padding: 8rem 1rem;
     border-left: #ffb555 solid 1px;
     border-bottom: #ffb555 solid 4px;
-    border-right: transparent;
+    border-right: #ffb555 solid 1px;
     border-radius: 8px;
     margin-bottom: 2rem;
 }
